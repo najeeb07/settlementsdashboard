@@ -37,6 +37,8 @@ dependencies:
   path_provider: ^2.0.15 # To access file paths for saving reports
   html: ^0.15.0
   fl_chart: ^0.62.0
+  intl: ^0.17.0
+  collection: ^1.19.1
 
 
 
